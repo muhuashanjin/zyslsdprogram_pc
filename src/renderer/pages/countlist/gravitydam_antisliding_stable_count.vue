@@ -3,9 +3,9 @@
         <!-- <v-layout row wrap>
             <v-flex xs10 offset-xs1> -->
                 <article class="detail-content text-xs-center">
-                    <!-- <header class="detail-title text-xs-center">
+                    <header class="detail-title text-xs-center">
                         重力坝抗滑稳定计算
-                    </header> -->
+                    </header>
                     <table class="table">
                         <tr>
                             <th>{{rowTitles[0]}}{{B3}}</th>
